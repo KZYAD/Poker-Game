@@ -1,0 +1,96 @@
+{
+    "Playfield": [
+        {
+            "CardFace": 5,
+            "CardSuit": 0,
+            "Position": {"x": 540, "y": 1450}
+        },
+        {
+            "CardFace": 10,
+            "CardSuit": 1,
+            "Position": {"x": 350, "y": 1200}
+        },
+        {
+            "CardFace": 2,
+            "CardSuit": 2,
+            "Position": {"x": 730, "y": 1200}
+        },
+        {
+            "CardFace": 8,
+            "CardSuit": 3,
+            "Position": {"x": 250, "y": 950}
+        },
+        {
+            "CardFace": 12,
+            "CardSuit": 0,
+            "Position": {"x": 540, "y": 950}
+        },
+        {
+            "CardFace": 4,
+            "CardSuit": 1,
+            "Position": {"x": 830, "y": 950}
+        },
+        {
+            "CardFace": 7,
+            "CardSuit": 2,
+            "Position": {"x": 350, "y": 700}
+        },
+        {
+            "CardFace": 11,
+            "CardSuit": 3,
+            "Position": {"x": 730, "y": 700}
+        },
+        {
+            "CardFace": 1,
+            "CardSuit": 0,
+            "Position": {"x": 250, "y": 450}
+        },
+        {
+            "CardFace": 9,
+            "CardSuit": 1,
+            "Position": {"x": 540, "y": 450}
+        },
+        {
+            "CardFace": 3,
+            "CardSuit": 2,
+            "Position": {"x": 830, "y": 450}
+        },
+        {
+            "CardFace": 6,
+            "CardSuit": 3,
+            "Position": {"x": 540, "y": 200}
+        }
+    ],
+    "Stack": [
+        {
+            "CardFace": 0,
+            "CardSuit": 2,
+            "Position": {"x": 0, "y": 0}
+        },
+        {
+            "CardFace": 5,
+            "CardSuit": 3,
+            "Position": {"x": 0, "y": 0}
+        },
+        {
+            "CardFace": 10,
+            "CardSuit": 0,
+            "Position": {"x": 0, "y": 0}
+        },
+        {
+            "CardFace": 3,
+            "CardSuit": 1,
+            "Position": {"x": 0, "y": 0}
+        },
+        {
+            "CardFace": 8,
+            "CardSuit": 2,
+            "Position": {"x": 0, "y": 0}
+        },
+        {
+            "CardFace": 2,
+            "CardSuit": 0,
+            "Position": {"x": 0, "y": 0}
+        }
+    ]
+}
